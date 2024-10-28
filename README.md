@@ -1,3 +1,5 @@
+# to check the deployment click this Link
+https://soojal-kalra-event-spot-lite.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
